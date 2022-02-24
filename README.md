@@ -8,3 +8,5 @@ Support Vector Machine classification is done on these texture features. It will
 ####Note : All files  and dataset folder should be placed in a same folder.   
 ###Warning: Use a better dataset as the dataset provided with code is not a good one.
 Also correction need to be done in Image segmentation section as well.
+
+Any suggestions and corrections are greatly appreciated.
